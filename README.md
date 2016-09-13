@@ -23,5 +23,7 @@
 - [Lecture](https://youtu.be/97rJQ9HQRIo)
 - [Live Review](https://www.youtube.com/watch?v=z8-iFwI6u8w&feature=youtu.be)
 
-## Abstract Data Structures
+## Abstract Data Types & Data Structures
 - [Lecture (Part 1)](https://youtu.be/O3_-SOUPhUk)
+- [Review (Part 1)](https://youtu.be/9iMjI1CGkn0)
+- [Lecture (Part 2 - Hash Tables)](https://youtu.be/7BWZ4H9Hp1k)
