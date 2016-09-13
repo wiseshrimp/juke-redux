@@ -1,4 +1,4 @@
-# 1607-Library
+# 1609-Library
 
 ## Fullstack Test First Solution Videos:
 
@@ -18,15 +18,10 @@
 - [Live Q&A about `this` (Gabe 1607GH)](https://www.youtube.com/watch?v=5meC1G5C4Fk&feature=youtu.be)
 - [Tuesday Morning TestFirst Q&A](https://youtu.be/p4_tcB7Xyj8)
 
-## Foundations Checkpoint Review:
-
-- [Problems 00 - 02 -- sound broke because of bad mic :(, will get another video!](https://youtu.be/w6r5gu5niyM)
-- [Problems 03 - 06](https://youtu.be/jyC10tor0cg)
-
 ## Build Your Own Adventure
 
 - [Lecture](https://youtu.be/97rJQ9HQRIo)
 - [Live Review](https://www.youtube.com/watch?v=z8-iFwI6u8w&feature=youtu.be)
 
 ## Abstract Data Structures
-- [Lecture Part 1](https://youtu.be/O3_-SOUPhUk)
+- [Lecture (Part 1)](https://youtu.be/O3_-SOUPhUk)
