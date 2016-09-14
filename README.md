@@ -31,3 +31,4 @@
 
 ## Selector.js
 - [Lecture](https://youtu.be/kknw8CbqWY4)
+- [Review](https://www.youtube.com/watch?v=WhVEZPsOP4I)
