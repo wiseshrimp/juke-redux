@@ -19,6 +19,7 @@ function merge (left, right) {
   var merged = [],
       leftIdx = 0,
       rightIdx = 0;
+
   while (leftIdx < left.length && rightIdx < right.length) {
     if (left[leftIdx] < right[rightIdx]) {
       merged.push(left[leftIdx++]);
@@ -26,29 +27,13 @@ function merge (left, right) {
       merged.push(right[rightIdx++]);
     }
   }
-  for (; leftIdx < left.length; leftIdx++) merged.push(left[leftIdx]);
-  for (; rightIdx < right.length; rightIdx++) merged.push(right[rightIdx]);
+  // add any additional from the remaining list
+  while (leftIdx < left.length) {
+    merged.push(left[leftIdx++]);
+  }
+  while (rightIdx < right.length) {
+    merged.push(right[rightIdx++]);
+  }
+
   return merged;
 }
-
-// // from old video...
-// function merge (left, right) {
-//   var merged = [],
-//       leftIdx = 0,
-//       rightIdx = 0,
-//       leftVal,
-//       rightVal;
-//   // admittedly pretty convoluted, but we do this in order to avoid shift
-//   while (leftIdx < left.length || rightIdx < right.length) {
-//     leftVal = left[leftIdx];
-//     rightVal = right[rightIdx];
-//     if (leftVal < rightVal || rightVal === undefined) {
-//       merged.push(leftVal);
-//       leftIdx++;
-//     } else {
-//       merged.push(rightVal);
-//       rightIdx++;
-//     }
-//   }
-//   return merged;
-// }
