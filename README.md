@@ -26,4 +26,12 @@
 ## Abstract Data Types & Data Structures
 - [Lecture (Part 1)](https://youtu.be/O3_-SOUPhUk)
 - [Review (Part 1)](https://youtu.be/9iMjI1CGkn0)
-- [Lecture (Part 2 - Hash Tables)](https://youtu.be/7BWZ4H9Hp1k)
+- [Lecture (Part 2)](https://youtu.be/IxsWIYX3U_E)
+- [Review (Part 2)](https://www.youtube.com/watch?v=96J_nObHWe0&ab_channel=FullstackAcademy) (Note: Part 2 starts @ 45:00)
+
+## Selector.js
+- [Lecture](https://youtu.be/kknw8CbqWY4)
+- [Review](https://www.youtube.com/watch?v=WhVEZPsOP4I)
+
+## Sorting
+- [Lecture](https://youtu.be/ywkESYpML5Q)
