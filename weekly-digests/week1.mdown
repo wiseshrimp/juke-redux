@@ -1,0 +1,27 @@
+1609 - Week 1 Digest
+
+I) Build Your Own Adventure
+  * Different types of programmers (Librarians vs Spelunkers)
+  * How to read documentation
+  * Pair Programming 
+
+II) Data Structures
+  * Complexity analysis
+  * Array vs LinkedList
+  * Binary Search Tree
+  * Depth first search vs Breadth first search
+  
+III) Selector.js
+  * The browser's Document Object Module
+  * DOM Traversal and Selection
+  * Creating and managing DOM Nodes
+
+IV) Sorting
+  * Merge sort vs Bubble sort
+  * Big O Notation
+  * Heuristics vs Algorithms
+
+V) Game of Life
+  * DOM Manipulations
+  * Engineering front-end apps that manipulate large number of DOM nodes
+  * 'this' in JS
