@@ -16,28 +16,29 @@ var utils = {
       utils.setCellStatus(cell, 'dead');
     }
   },
-  getCell: function(x,y) {
-    return document.getElementById(x + '-' + y);
+  getCell: function(y,x) {
+    return document.getElementById(y + '-' + x);
   },
   //get neighbors
+  
   getNeighbors : function(cell) {
+
     var splitId = cell.id.split('-').map(Number);
     var col = splitId[0];
     var row = splitId[1];
     var neighbors = [];
 
     //get left/right
-    neighbors.push(utils.getCell(row, col-1));
-    neighbors.push(utils.getCell(row, col+1));
+    neighbors.push(utils.getCell(col-1, row));
+    neighbors.push(utils.getCell(col+1, row));
     //get top row
-    neighbors.push(utils.getCell(row-1, col-1));
-    neighbors.push(utils.getCell(row-1, col));
-    neighbors.push(utils.getCell(row-1, col+1));
+    neighbors.push(utils.getCell(col-1, row-1));
+    neighbors.push(utils.getCell(col, row-1));
+    neighbors.push(utils.getCell(col+1, row-1));
 
     //get bottom row
-    neighbors.push(utils.getCell(row+1, col-1));
-    neighbors.push(utils.getCell(row+1, col));
-    neighbors.push(utils.getCell(row+1, col+1));
+    neighbors.push(utils.getCell(col-1, row+1));
+    neighbors.push(utils.getCell(col, row+1));
 
     return neighbors.filter(function(neighbor) {
       return neighbor !== null;
