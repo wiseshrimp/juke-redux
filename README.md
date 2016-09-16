@@ -46,6 +46,6 @@
 ## Game of Life
 - [Lecture](https://youtu.be/UWnKa8ZBJMY)
 - [Review](https://youtu.be/sHQqbJO6F6Q)
-- 
+
 ## Intro to Node
 - [Lecture](https://youtu.be/Orj7qcevKz4)
