@@ -16,13 +16,13 @@ var utils = {
       utils.setCellStatus(cell, 'dead');
     }
   },
-  getCell: function(y,x) {
-    return document.getElementById(y + '-' + x);
+  getCell: function(col,row) {
+    return document.getElementById(col + '-' + row);
   },
   //get neighbors
   
   getNeighbors : function(cell) {
-
+ 
     var splitId = cell.id.split('-').map(Number);
     var col = splitId[0];
     var row = splitId[1];
@@ -39,6 +39,7 @@ var utils = {
     //get bottom row
     neighbors.push(utils.getCell(col-1, row+1));
     neighbors.push(utils.getCell(col, row+1));
+    neighbors.push(utils.getCell(col + 1, row+1));
 
     return neighbors.filter(function(neighbor) {
       return neighbor !== null;
