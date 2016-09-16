@@ -36,3 +36,6 @@
 ## Sorting
 - [Lecture](https://youtu.be/ywkESYpML5Q)
 - [Review](https://www.youtube.com/watch?v=Dz0NkaBp-FM&ab_channel=FullstackAcademy)
+
+## Intro to Node
+- [Lecture](https://youtu.be/Orj7qcevKz4)
