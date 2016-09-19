@@ -25,8 +25,10 @@
 
 ## Abstract Data Types & Data Structures
 - [Lecture (Part 1)](https://youtu.be/O3_-SOUPhUk)
+- [Slides (Part 1)](https://github.com/FullstackAcademy/1609-Library/blob/master/02-data-structures/Data%20Structures%20Part%20I.key)
 - [Review (Part 1)](https://youtu.be/9iMjI1CGkn0)
 - [Lecture (Part 2)](https://youtu.be/IxsWIYX3U_E)
+- [Slides (Part 2)](https://github.com/FullstackAcademy/1609-Library/blob/master/02-data-structures/Data%20Structures%20Part%20II.key)
 - [Review (Part 2)](https://www.youtube.com/watch?v=96J_nObHWe0&ab_channel=FullstackAcademy) (Note: Part 2 starts @ 45:00)
 
 ## Selector.js
@@ -35,6 +37,7 @@
 
 ## Sorting
 - [Lecture](https://youtu.be/ywkESYpML5Q)
+- [Slides](https://github.com/FullstackAcademy/1609-Library/blob/master/04-sorting/Sorting.pdf)
 - [Review](https://www.youtube.com/watch?v=Dz0NkaBp-FM&ab_channel=FullstackAcademy)
 
 ## CodeWars
@@ -49,3 +52,5 @@
 
 ## Intro to Node
 - [Lecture](https://youtu.be/Orj7qcevKz4)
+- [Slides](https://github.com/FullstackAcademy/1609-Library/blob/master/06-node-shell/Node%20Lecture.pdf)
+- [Review](https://www.youtube.com/watch?v=v_lhkZ849jk)
