@@ -51,6 +51,6 @@
 - [Review](https://youtu.be/sHQqbJO6F6Q)
 
 ## Intro to Node
-- [Lecture](https://youtu.be/Orj7qcevKz4)
+- [Lecture](https://youtu.be/Ue-SvZOot8A)
 - [Slides](https://github.com/FullstackAcademy/1609-Library/blob/master/06-node-shell/Node%20Lecture.pdf)
 - [Review](https://www.youtube.com/watch?v=v_lhkZ849jk)
