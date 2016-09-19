@@ -166,7 +166,7 @@ var gameOfLife = {
     // Start Auto-Play by running the 'step' function
     // automatically repeatedly every fixed time interval
    if( this.stepInterval === null) {
-    this.stepInterval = setInterval(this.step.bind(this)) 
+    this.stepInterval = setInterval(this.step.bind(this), 500) 
    } else {
     //stop
     this.stop();
@@ -196,4 +196,4 @@ var gameOfLife = {
   }
 };
 
-  gameOfLife.createAndShowBoard();
+gameOfLife.createAndShowBoard();
