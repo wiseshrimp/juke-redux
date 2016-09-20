@@ -51,7 +51,7 @@ app.use('/pokemon', function(req, res, next) {
 // })
 
 
-app.use('/pokemon/:name', function seeTrainer(req,res,next) {
+app.use('/pokemon/:name/', function seeTrainer(req,res,next) {
   if(req.query.owner) {
     console.log("This pokemon has a trainer: ", req.query.owner);
   }

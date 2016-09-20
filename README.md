@@ -56,4 +56,8 @@
 - [Review](https://www.youtube.com/watch?v=v_lhkZ849jk)
 
 ## Express
--[Lecture](https://youtu.be/JHWzTYWYlTg)
+- [Lecture](https://youtu.be/JHWzTYWYlTg)
+- [Review](https://www.youtube.com/watch?v=0NvankAwgHU&feature=youtu.be)
+
+## SQL
+- [Lecture](https://youtu.be/0CnNjXU_yMA)
