@@ -32,7 +32,7 @@ app.use(bodyParser);
 //   next();
 // })
 
-app.use(function middle(req, res, next) {
+app.use('/pokemon', function(req, res, next) {
   req.isPokemon = 'true';
 
   next();
@@ -50,12 +50,8 @@ app.use(function middle(req, res, next) {
 //   }
 // })
 
-app.use(function errHandler(err,req,res,next) {
-  console.log("err", err)
-  res.sendStatus(500);
-})
 
-app.use('/pokemon/:name', function addSpecies(req,res,next) {
+app.use('/pokemon/:name', function seeTrainer(req,res,next) {
   if(req.query.owner) {
     console.log("This pokemon has a trainer: ", req.query.owner);
   }
@@ -63,13 +59,19 @@ app.use('/pokemon/:name', function addSpecies(req,res,next) {
   next();
 })
 
+
+app.use(function errHandler(err,req,res,next) {
+  console.log("err", err)
+  res.sendStatus(500);
+})
+
 var pokemon = [],
     id = 0;
 
 
 app.get('/', function(req, res, next) {
-  console.log("You hit the homepage!");
-  res.set('Content-Type', 'text/plain');
+  console.log(Object.keys(req));
+  res.set('Content-Type', 'text/html');
   res.send('<html><body><h1>Pokedex Home</h1></body></html>');
 });
 
@@ -89,7 +91,7 @@ app.post('/pokemon', function(req,res,next) {
   if(req.body.username === 'Oak') {
     res.send('I ship Gary and Ash')
   } else {
-    res.send("Catch em all ya TA!");
+    res.send("Catch em all!");
   }
 })
 
