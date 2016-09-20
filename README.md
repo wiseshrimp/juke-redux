@@ -60,4 +60,4 @@
 - [Review](https://www.youtube.com/watch?v=0NvankAwgHU&feature=youtu.be)
 
 ## SQL
-- [Lecture](https://youtu.be/0CnNjXU_yMA)
+- [Lecture](https://youtu.be/rnBC-UQ_TlU)
