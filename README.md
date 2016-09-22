@@ -65,3 +65,4 @@
 
 ## Postgres
 - [Lecture](https://youtu.be/X1CBfEnsztQ)
+- [Review](https://www.youtube.com/watch?v=kpUxNTEH64M&feature=youtu.be)
