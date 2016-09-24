@@ -74,3 +74,4 @@
 ## FQL (CS Saturday)
 
 - [Intro Lecture](http://youtu.be/WQJmzTPsDEk)
+- [Review Parts I and II](http://youtu.be/lZCOZsEPlcI)
