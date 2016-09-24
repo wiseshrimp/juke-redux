@@ -70,3 +70,7 @@
 ## Practical Promises
 - [Lecture](https://youtu.be/A_zCCkNNB_o)
 - [Example Code](https://github.com/kaizerroll/practical-promises-lecture-example)
+
+## FQL (CS Saturday)
+
+- [Intro Lecture](http://youtu.be/WQJmzTPsDEk)
