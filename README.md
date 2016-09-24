@@ -66,3 +66,7 @@
 ## Postgres
 - [Lecture](https://youtu.be/X1CBfEnsztQ)
 - [Review](https://www.youtube.com/watch?v=kpUxNTEH64M&feature=youtu.be)
+
+## Practical Promises
+- [Lecture](https://youtu.be/A_zCCkNNB_o)
+- [Example Code](https://github.com/kaizerroll/practical-promises-lecture-example)
