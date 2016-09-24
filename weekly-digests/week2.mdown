@@ -1,0 +1,29 @@
+1609 - Week 2 Digest
+
+Node Shell
+  - Creating node apps and using 3rd-party modules
+  - Async functions
+  - The Event Loop
+
+Twitter.JS
+  - Express apps
+  - Routes, CRUD requests
+  - Server responses
+  - Middleware structure
+
+SQL
+  - Relational Databases
+  - Creating SQL queries
+  - Selections
+  - Joins
+  - Nested joins and sub-queries
+
+Schema Design
+  - Relational and Non-relational Data Modeling
+
+Twitter.sql
+  - PostgreSQL protocol
+  - Writing SQL queries into express routes
+  - Seeding and querying dbs
+  - psql CLI and postico GUI
+
