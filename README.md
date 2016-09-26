@@ -85,4 +85,4 @@
 - [Lecture](https://youtu.be/lmcc0EfMXqo)
 
 ## ES6 of the Week
--[Arrow functions and lexical scope](https://youtu.be/DnH2EtwVxKY)
+- [Arrow functions and lexical scope](https://youtu.be/DnH2EtwVxKY)
