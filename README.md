@@ -83,6 +83,8 @@
 ## Wikistack
 
 - [Lecture](https://youtu.be/lmcc0EfMXqo)
+- [Review I](https://www.youtube.com/watch?v=stTJmJ-uGtg)
+- [Review II](https://www.youtube.com/watch?v=7iPyaokenlg)
 
 ## ES6 of the Week
 - [Arrow functions and lexical scope](https://youtu.be/DnH2EtwVxKY)
