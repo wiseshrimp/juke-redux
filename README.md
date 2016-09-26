@@ -1,6 +1,6 @@
 # 1609-Library
 
-1. [Build Your Own Adventure](#Build Your Own Adventure)
+1. [Build Your Own Adventure](#build-your-own-adventure)
 
 
 ## Fullstack Test First Solution Videos:
