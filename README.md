@@ -78,7 +78,8 @@
 
 ### Wikistack
 - [Lecture](https://youtu.be/lmcc0EfMXqo)
-
+- [Review I](https://www.youtube.com/watch?v=stTJmJ-uGtg)
+- [Review II](https://www.youtube.com/watch?v=7iPyaokenlg)
 ---
 
 ## CS Saturday
@@ -91,13 +92,7 @@
 - [Review: Part III](http://youtu.be/q85H_msO09M), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/05b3f59b9c005ee7c88f5f681d5331b9579aa817)
 - [Review: Part IV](http://youtu.be/wuZboc_EIew), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
 
----
 
-<<<<<<< HEAD
-- [Lecture](https://youtu.be/lmcc0EfMXqo)
-- [Review I](https://www.youtube.com/watch?v=stTJmJ-uGtg)
-- [Review II](https://www.youtube.com/watch?v=7iPyaokenlg)
-=======
 ## Misc
 
 ### Test First Solutions:
@@ -124,7 +119,7 @@
 - [Gist of Foundations practice problems](https://gist.github.com/joedotjs/7614f84264bf20e49d39)
 - [For the Sake of Argument](https://www.youtube.com/watch?v=usyFqZQzM4U)
 - [Sum Array with Reduce](https://www.youtube.com/watch?v=qRwD2RueqJM)
->>>>>>> f379672cd9907f71f7a88cec0d9f5e594924ff09
+
 
 ## ES6 of the Week
 - [Arrow functions and lexical scope](https://youtu.be/DnH2EtwVxKY)
