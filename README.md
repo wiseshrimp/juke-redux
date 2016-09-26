@@ -70,6 +70,7 @@
 ## Practical Promises
 - [Lecture](https://youtu.be/A_zCCkNNB_o)
 - [Example Code](https://github.com/kaizerroll/practical-promises-lecture-example)
+- [Review](https://youtu.be/jcZm6UMBsd4)
 
 ## FQL (CS Saturday)
 
@@ -78,3 +79,10 @@
 - [Lecture: Indexing](http://youtu.be/-QtVrxb3Cyc)
 - [Review: Part III](http://youtu.be/q85H_msO09M), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/05b3f59b9c005ee7c88f5f681d5331b9579aa817)
 - [Review: Part IV](http://youtu.be/wuZboc_EIew), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
+
+## Wikistack
+
+- [Lecture](https://youtu.be/lmcc0EfMXqo)
+
+## ES6 of the Week
+-[Arrow functions and lexical scope](https://youtu.be/DnH2EtwVxKY)
