@@ -83,8 +83,8 @@
 - [Review II](https://www.youtube.com/watch?v=7iPyaokenlg)
 
 ### 12. Testing Wikistack
-- [Lecture](https://www.youtube.com/watch?v=oNDoEqRZzRI&feature=youtu.be&ab_channel=FullstackAcademy)*
-  * from previous cohort - forgot to record this one, sorry everybody!
+- [Lecture](https://www.youtube.com/watch?v=oNDoEqRZzRI&feature=youtu.be&ab_channel=FullstackAcademy) (from previous cohort - forgot to record this one, sorry everybody!)
+
 ---
 
 ## CS Saturday
