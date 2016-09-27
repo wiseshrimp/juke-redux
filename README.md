@@ -14,6 +14,7 @@
 9. [Postgres](#postgres)
 10. [Practical Promises](#practical-promises)
 11. [Wikistack](#wikistack)
+12. [Testing Wikistack](#testing-wikistack)
 
 ### CS Saturday
 1. [FQL](#fql)
@@ -28,12 +29,12 @@
 
 ## Workshops
 
-### Build Your Own Adventure
+### 1. Build Your Own Adventure
 
 - [Lecture](https://youtu.be/97rJQ9HQRIo)
 - [Live Review](https://www.youtube.com/watch?v=z8-iFwI6u8w&feature=youtu.be)
 
-### Data Structures
+### 2. Data Structures
 - [Lecture (Part 1)](https://youtu.be/O3_-SOUPhUk)
 - [Slides (Part 1)](https://github.com/FullstackAcademy/1609-Library/blob/master/02-data-structures/Data%20Structures%20Part%20I.key)
 - [Review (Part 1)](https://youtu.be/9iMjI1CGkn0)
@@ -41,45 +42,49 @@
 - [Slides (Part 2)](https://github.com/FullstackAcademy/1609-Library/blob/master/02-data-structures/Data%20Structures%20Part%20II.key)
 - [Review (Part 2)](https://www.youtube.com/watch?v=96J_nObHWe0&ab_channel=FullstackAcademy) (Note: Part 2 starts @ 45:00)
 
-### Selector.js
+### 3. Selector.js
 - [Lecture](https://youtu.be/kknw8CbqWY4)
 - [Review](https://www.youtube.com/watch?v=WhVEZPsOP4I)
 
-### Sorting
+### 4. Sorting
 - [Lecture](https://youtu.be/ywkESYpML5Q)
 - [Slides](https://github.com/FullstackAcademy/1609-Library/blob/master/04-sorting/Sorting.pdf)
 - [Review](https://www.youtube.com/watch?v=Dz0NkaBp-FM&ab_channel=FullstackAcademy)
 
-### Game of Life
+### 5. Game of Life
 - [Lecture](https://youtu.be/UWnKa8ZBJMY)
 - [Review](https://youtu.be/sHQqbJO6F6Q)
 
-### Intro to Node
+### 6. Intro to Node
 - [Lecture](https://youtu.be/Ue-SvZOot8A)
 - [Slides](https://github.com/FullstackAcademy/1609-Library/blob/master/06-node-shell/Node%20Lecture.pdf)
 - [Review](https://www.youtube.com/watch?v=v_lhkZ849jk)
 
-### Express
+### 7. Express
 - [Lecture](https://youtu.be/JHWzTYWYlTg)
 - [Review](https://www.youtube.com/watch?v=0NvankAwgHU&feature=youtu.be)
 
-### SQL
+### 8. SQL
 - [Lecture](https://youtu.be/rnBC-UQ_TlU)
 - [Review](https://www.youtube.com/watch?v=meRYC47giig&feature=youtu.be)
 
-### Postgres
+### 9. Postgres
 - [Lecture](https://youtu.be/X1CBfEnsztQ)
 - [Review](https://www.youtube.com/watch?v=kpUxNTEH64M&feature=youtu.be)
 
-### Practical Promises
+### 10. Practical Promises
 - [Lecture](https://youtu.be/A_zCCkNNB_o)
 - [Example Code](https://github.com/kaizerroll/practical-promises-lecture-example)
 - [Review](https://youtu.be/jcZm6UMBsd4)
 
-### Wikistack
+### 11. Wikistack
 - [Lecture](https://youtu.be/lmcc0EfMXqo)
 - [Review I](https://www.youtube.com/watch?v=stTJmJ-uGtg)
 - [Review II](https://www.youtube.com/watch?v=7iPyaokenlg)
+
+### 12. Testing Wikistack
+- [Lecture](https://www.youtube.com/watch?v=oNDoEqRZzRI&feature=youtu.be&ab_channel=FullstackAcademy)*
+  * from previous cohort - forgot to record this one, sorry everybody!
 ---
 
 ## CS Saturday
