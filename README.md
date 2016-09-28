@@ -84,6 +84,7 @@
 
 ### 12. Testing Wikistack
 - [Lecture](https://www.youtube.com/watch?v=oNDoEqRZzRI&feature=youtu.be&ab_channel=FullstackAcademy) (from previous cohort - forgot to record this one, sorry everybody!)
+- [Review](https://www.youtube.com/watch?v=6s2ZAZASLgQ&feature=youtu.be&ab_channel=FullstackAcademy)
 
 ---
 
