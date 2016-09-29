@@ -16,6 +16,7 @@
 11. [Wikistack](#wikistack)
 12. [Testing Wikistack](#testing-wikistack)
 13. [Pledge](#pledge)
+14. [Shoestring](#shoestring)
 
 ### Misc
 1. [Test First Solutions](#test-first-solutions)
@@ -89,6 +90,9 @@ https://github.com/FullstackAcademy/express-checkpoint-solution/settings/collabo
 
 #### 13. Pledge
 - [Review](https://www.youtube.com/watch?v=_KEDJHHULGU)
+
+#### 14. Shoestring
+- [Review](https://www.youtube.com/watch?v=ZL72MGl93P8)
 
 ---
 
