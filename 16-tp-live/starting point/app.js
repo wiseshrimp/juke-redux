@@ -1,16 +1,15 @@
 var express = require('express');
 var morgan = require('morgan');
 var bodyParser = require('body-parser');
-var swig = require('swig');
+var nunjucks = require('nunjucks');
 
 var db = require('./models');
 
 var app = express();
 
-// swig rendering boilerplate
-app.set('views', __dirname + '/views');
+nunjucks.configure('views', { noCache: true });
 app.set('view engine', 'html');
-app.engine('html', swig.renderFile);
+app.engine('html', nunjucks.render);
 
 // logging and body-parsing
 app.use(morgan('dev'));
