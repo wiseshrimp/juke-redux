@@ -98,6 +98,7 @@ https://github.com/FullstackAcademy/express-checkpoint-solution/settings/collabo
 ### 15. Trip Planner
 - Review Part I (no video, sorry :/) - [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/b6fc9c4a14a79d122a0464013dfc0f5be3f1a9fc)
 - [Review Part II](https://youtu.be/tVDHikKIorA) - [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/058722cd3f7093f94dc91c768e53251ef20d84b9
+
 ---
 
 ## CS Saturday
