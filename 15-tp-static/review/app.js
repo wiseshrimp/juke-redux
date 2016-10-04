@@ -18,12 +18,12 @@ app.use(volleyball);
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
-// statically serve front-end dependencies
-app.use('/bootstrap', express.static(path.join(__dirname, '/node_modules/bootstrap/dist')));
-app.use('/jquery', express.static(path.join(__dirname, '/node_modules/jquery/dist')));
-
 // serve any other static files
 app.use(express.static(path.join(__dirname, '/public')));
+// deps
+app.use(express.static(path.join(__dirname, '/node_modules')));
+
+app.use('/', require('./routes'));
 
 // failed to catch req above means 404, forward to error handler
 app.use(function (req, res, next) {

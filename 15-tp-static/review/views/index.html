@@ -1,0 +1,71 @@
+{% extends 'layout.html' %}
+
+{% block title %}Trip Planner{% endblock %}
+
+{% block content %}
+  <content class="row">
+    <map class="col-xs-8" id="map-canvas"></map>
+    <control-panel class="col-xs-4">
+      <choose-data>
+        <chooser>
+          <h4>Hotels</h4>
+          <select>
+            {% for hotel in hotels %}
+            <option>{{ hotel.name }}</option>
+            {% endfor %}
+          </select>
+          <button>+</button>
+        </chooser>
+        <chooser>
+          <h4>Restaurants</h4>
+          <select>
+            {% for restaurant in restaurants %}
+            <option>{{ restaurant.name }}</option>
+            {% endfor %}
+          </select>
+          <button>+</button>
+        </chooser>
+        <chooser>
+          <h4>Activities</h4>
+          <select>
+            {% for activity in activities %}
+            <option>{{ activity.name }}</option>
+            {% endfor %}
+          </select>
+          <button>+</button>
+        </chooser>
+      </choose-data>
+      <choose-day>
+        <div>
+          <span>Day 4</span><button>x</button>
+        </div>
+        <day-buttons>
+          <button>1</button>
+          <button>2</button>
+          <button>3</button>
+          <button>+</button>
+        </day-buttons>
+      </choose-day>
+      <itinerary>
+        <itinerary-items>
+          <h3>Hotels</h3>
+          <ul>
+            <li>Boardwalk</li>
+          </ul>
+        </itinerary-items>
+        <itinerary-items>
+          <h3>Restaurants</h3>
+          <ul>
+            <li>Le Cirque</li>
+          </ul>
+        </itinerary-items>
+        <itinerary-items>
+          <h3>Activities</h3>
+          <ul>
+            <li>Run Around</li>
+          </ul>
+        </itinerary-items>
+      </itinerary>
+    </control-panel>
+  </content>
+{% endblock %}
