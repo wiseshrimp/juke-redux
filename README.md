@@ -86,7 +86,7 @@
 - [Review II](https://www.youtube.com/watch?v=7iPyaokenlg)
 
 ### 12. Testing Wikistack
-- [Lecture](https://www.youtube.com/watch?v=oNDoEqRZzRI&feature=youtu.be&ab_channel=FullstackAcademy) (from previous cohort - forgot to record this one, sorry everybody!)
+- [Lecture](https://www.youtube.com/watch?v=oNDoEqRZzRI&feature=youtu.be&ab_channel=FullstackAcademy)
 - [Review](https://www.youtube.com/watch?v=6s2ZAZASLgQ&feature=youtu.be&ab_channel=FullstackAcademy)
 
 #### 13. Pledge
@@ -97,7 +97,7 @@
 - [Review](https://www.youtube.com/watch?v=ZL72MGl93P8)
 
 ### 15. Tripplanner Static
-- [Review Part I](https://github.com/FullstackAcademy/1609-Library/commit/b6fc9c4a14a79d122a0464013dfc0f5be3f1a9fc)
+- [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/b6fc9c4a14a79d122a0464013dfc0f5be3f1a9fc)
 - [Review Part II](https://youtu.be/tVDHikKIorA)
 
 ### 16. Tripplanner Live
@@ -110,10 +110,13 @@
 ## FQL
 
 - [Intro Lecture](http://youtu.be/WQJmzTPsDEk)
-- [Review: Parts I and II](http://youtu.be/lZCOZsEPlcI), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/326115b3ab0d16acf56f5ab51830e6c7a025342a)
+- [Review: Parts I and II](http://youtu.be/lZCOZsEPlcI)
+  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/326115b3ab0d16acf56f5ab51830e6c7a025342a)
 - [Lecture: Indexing](http://youtu.be/-QtVrxb3Cyc)
-- [Review: Part III](http://youtu.be/q85H_msO09M), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/05b3f59b9c005ee7c88f5f681d5331b9579aa817)
-- [Review: Part IV](http://youtu.be/wuZboc_EIew), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
+- [Review: Part III](http://youtu.be/q85H_msO09M)
+  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/05b3f59b9c005ee7c88f5f681d5331b9579aa817)
+- [Review: Part IV](http://youtu.be/wuZboc_EIew)
+  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
 
 ----------------------
 
@@ -150,10 +153,13 @@
 
 ### 5. FQL
 - [Intro Lecture](http://youtu.be/WQJmzTPsDEk)
-- [Review: Parts I and II](http://youtu.be/lZCOZsEPlcI), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/326115b3ab0d16acf56f5ab51830e6c7a025342a)
+- [Review: Parts I and II](http://youtu.be/lZCOZsEPlcI)
+  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/326115b3ab0d16acf56f5ab51830e6c7a025342a)
 - [Lecture: Indexing](http://youtu.be/-QtVrxb3Cyc)
-- [Review: Part III](http://youtu.be/q85H_msO09M), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/05b3f59b9c005ee7c88f5f681d5331b9579aa817)
-- [Review: Part IV](http://youtu.be/wuZboc_EIew), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
+- [Review: Part III](http://youtu.be/q85H_msO09M)
+  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/05b3f59b9c005ee7c88f5f681d5331b9579aa817)
+- [Review: Part IV](http://youtu.be/wuZboc_EIew)
+  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
 
 ### 6. Express Checkpoint Solution
 6. [Express Checkpoint Solution](https://github.com/FullstackAcademy/express-checkpoint-solution)
