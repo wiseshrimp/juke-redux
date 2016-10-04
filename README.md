@@ -17,6 +17,8 @@
 12. [Testing Wikistack](#testing-wikistack)
 13. [Pledge](#pledge)
 14. [Shoestring](#shoestring)
+15. [Tripplanner Static](#tripplanner-static)
+16. [Tripplanner Live](#tripplanner-live)
 
 ### Misc
 1. [Test First Solutions](#test-first-solutions)
@@ -25,7 +27,6 @@
 4. [ES6 of the Week](#es6-of-the-week)
 5. [FQL](#fql)
 6. [Express Checkpoint Solution](#express-checkpoint-solution)
-https://github.com/FullstackAcademy/express-checkpoint-solution/settings/collaboration
 
 ---
 
@@ -95,9 +96,12 @@ https://github.com/FullstackAcademy/express-checkpoint-solution/settings/collabo
 #### 14. Shoestring
 - [Review](https://www.youtube.com/watch?v=ZL72MGl93P8)
 
-### 15. Trip Planner
-- Review Part I (no video, sorry :/) - [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/b6fc9c4a14a79d122a0464013dfc0f5be3f1a9fc)
-- [Review Part II](https://youtu.be/tVDHikKIorA) - [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/058722cd3f7093f94dc91c768e53251ef20d84b9
+### 15. Tripplanner Static
+- [Review Part I](https://github.com/FullstackAcademy/1609-Library/commit/b6fc9c4a14a79d122a0464013dfc0f5be3f1a9fc)
+- [Review Part II](https://youtu.be/tVDHikKIorA)
+
+### 16. Tripplanner Live
+- [Lecture](https://youtu.be/N77X-XE_8Hk)
 
 ---
 
