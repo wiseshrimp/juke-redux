@@ -90,9 +90,14 @@ https://github.com/FullstackAcademy/express-checkpoint-solution/settings/collabo
 
 #### 13. Pledge
 - [Review](https://www.youtube.com/watch?v=_KEDJHHULGU)
+- [Lecture (from 1604)](https://www.youtube.com/watch?v=rtfwnPhXL80)
 
 #### 14. Shoestring
 - [Review](https://www.youtube.com/watch?v=ZL72MGl93P8)
+
+### 15. Trip Planner
+- Review Part I (no video, sorry :/) - [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/b6fc9c4a14a79d122a0464013dfc0f5be3f1a9fc)
+- [Review Part II](https://youtu.be/tVDHikKIorA) - [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/058722cd3f7093f94dc91c768e53251ef20d84b9
 
 ---
 
@@ -105,10 +110,6 @@ https://github.com/FullstackAcademy/express-checkpoint-solution/settings/collabo
 - [Lecture: Indexing](http://youtu.be/-QtVrxb3Cyc)
 - [Review: Part III](http://youtu.be/q85H_msO09M), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/05b3f59b9c005ee7c88f5f681d5331b9579aa817)
 - [Review: Part IV](http://youtu.be/wuZboc_EIew), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
-=======
-### 13. Pledge
-- [Lecture (from 1604)] (https://www.youtube.com/watch?v=rtfwnPhXL80)
->>>>>>> 525df71c06f0115df1f82ab2061160d0ff209b9b
 
 ----------------------
 
