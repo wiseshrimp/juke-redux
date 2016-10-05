@@ -17,6 +17,8 @@
 12. [Testing Wikistack](#testing-wikistack)
 13. [Pledge](#pledge)
 14. [Shoestring](#shoestring)
+15. [Tripplanner Static](#tripplanner-static)
+16. [Tripplanner Live](#tripplanner-live)
 
 ### Misc
 1. [Test First Solutions](#test-first-solutions)
@@ -25,7 +27,6 @@
 4. [ES6 of the Week](#es6-of-the-week)
 5. [FQL](#fql)
 6. [Express Checkpoint Solution](#express-checkpoint-solution)
-https://github.com/FullstackAcademy/express-checkpoint-solution/settings/collaboration
 
 ---
 
@@ -85,7 +86,7 @@ https://github.com/FullstackAcademy/express-checkpoint-solution/settings/collabo
 - [Review II](https://www.youtube.com/watch?v=7iPyaokenlg)
 
 ### 12. Testing Wikistack
-- [Lecture](https://www.youtube.com/watch?v=oNDoEqRZzRI&feature=youtu.be&ab_channel=FullstackAcademy) (from previous cohort - forgot to record this one, sorry everybody!)
+- [Lecture](https://www.youtube.com/watch?v=oNDoEqRZzRI&feature=youtu.be&ab_channel=FullstackAcademy)
 - [Review](https://www.youtube.com/watch?v=6s2ZAZASLgQ&feature=youtu.be&ab_channel=FullstackAcademy)
 
 #### 13. Pledge
@@ -95,9 +96,12 @@ https://github.com/FullstackAcademy/express-checkpoint-solution/settings/collabo
 #### 14. Shoestring
 - [Review](https://www.youtube.com/watch?v=ZL72MGl93P8)
 
-### 15. Trip Planner
-- Review Part I (no video, sorry :/) - [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/b6fc9c4a14a79d122a0464013dfc0f5be3f1a9fc)
-- [Review Part II](https://youtu.be/tVDHikKIorA) - [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/058722cd3f7093f94dc91c768e53251ef20d84b9
+### 15. Tripplanner Static
+- [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/b6fc9c4a14a79d122a0464013dfc0f5be3f1a9fc)
+- [Review Part II](https://youtu.be/tVDHikKIorA)
+
+### 16. Tripplanner Live
+- [Lecture](https://youtu.be/N77X-XE_8Hk)
 
 ---
 
@@ -106,10 +110,13 @@ https://github.com/FullstackAcademy/express-checkpoint-solution/settings/collabo
 ## FQL
 
 - [Intro Lecture](http://youtu.be/WQJmzTPsDEk)
-- [Review: Parts I and II](http://youtu.be/lZCOZsEPlcI), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/326115b3ab0d16acf56f5ab51830e6c7a025342a)
+- [Review: Parts I and II](http://youtu.be/lZCOZsEPlcI)
+  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/326115b3ab0d16acf56f5ab51830e6c7a025342a)
 - [Lecture: Indexing](http://youtu.be/-QtVrxb3Cyc)
-- [Review: Part III](http://youtu.be/q85H_msO09M), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/05b3f59b9c005ee7c88f5f681d5331b9579aa817)
-- [Review: Part IV](http://youtu.be/wuZboc_EIew), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
+- [Review: Part III](http://youtu.be/q85H_msO09M)
+  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/05b3f59b9c005ee7c88f5f681d5331b9579aa817)
+- [Review: Part IV](http://youtu.be/wuZboc_EIew)
+  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
 
 ----------------------
 
@@ -146,10 +153,13 @@ https://github.com/FullstackAcademy/express-checkpoint-solution/settings/collabo
 
 ### 5. FQL
 - [Intro Lecture](http://youtu.be/WQJmzTPsDEk)
-- [Review: Parts I and II](http://youtu.be/lZCOZsEPlcI), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/326115b3ab0d16acf56f5ab51830e6c7a025342a)
+- [Review: Parts I and II](http://youtu.be/lZCOZsEPlcI)
+  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/326115b3ab0d16acf56f5ab51830e6c7a025342a)
 - [Lecture: Indexing](http://youtu.be/-QtVrxb3Cyc)
-- [Review: Part III](http://youtu.be/q85H_msO09M), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/05b3f59b9c005ee7c88f5f681d5331b9579aa817)
-- [Review: Part IV](http://youtu.be/wuZboc_EIew), [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
+- [Review: Part III](http://youtu.be/q85H_msO09M)
+  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/05b3f59b9c005ee7c88f5f681d5331b9579aa817)
+- [Review: Part IV](http://youtu.be/wuZboc_EIew)
+  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
 
 ### 6. Express Checkpoint Solution
 6. [Express Checkpoint Solution](https://github.com/FullstackAcademy/express-checkpoint-solution)
