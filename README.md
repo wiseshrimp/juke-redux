@@ -1,35 +1,5 @@
 # 1609-Library
 
-## TOC
-
-### Workshops
-1. [Build Your Own Adventure](#build-your-own-adventure)
-2. [Data Structures](#data-structures)
-3. [Selector.js](#selectorjs)
-4. [Sorting](#sorting)
-5. [Game of Life](#game-of-life)
-6. [Intro to Node](#intro-to-node)
-7. [Express](#express)
-8. [SQL](#sql)
-9. [Postgres](#postgres)
-10. [Practical Promises](#practical-promises)
-11. [Wikistack](#wikistack)
-12. [Testing Wikistack](#testing-wikistack)
-13. [Pledge](#pledge)
-14. [Shoestring](#shoestring)
-15. [Tripplanner Static](#tripplanner-static)
-16. [Tripplanner Live](#tripplanner-live)
-
-### Misc
-1. [Test First Solutions](#test-first-solutions)
-2. [Foundations Checkpoint Prep](#foundations-checkpoint-prep)
-3. [CodeWars](#codewars)
-4. [ES6 of the Week](#es6-of-the-week)
-5. [FQL](#fql)
-6. [Express Checkpoint Solution](#express-checkpoint-solution)
-
----
-
 ## Workshops
 
 ### 1. Build Your Own Adventure
@@ -102,7 +72,7 @@
 
 ### 16. Tripplanner Live
 - [Lecture](https://youtu.be/N77X-XE_8Hk)
-
+- [Review](https://www.youtube.com/watch?v=gajJ9BHLiKA&feature=youtu.be)
 ---
 
 ## CS Saturday
