@@ -1,0 +1,47 @@
+$navbar-height: 50px;
+
+body {
+  padding-top: $navbar-height;
+}
+
+navbar {
+  background-color: cornflowerblue;
+  display: block;
+  height: $navbar-height;
+}
+
+map-container {
+  height: calc(100vh - #{$navbar-height});
+}
+
+map {
+  height: 100%;
+  width: inherit;
+}
+
+@media screen and (min-width: 768px) {
+  navbar {
+    background-color: orange;
+  }
+  map {
+    position: fixed !important;
+  }
+}
+
+chooser select {
+  width: 70%;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+.small-square {
+  width: 2em;
+  height: 2em;
+}
+
+control {
+  display: block;
+  margin: 1em;
+}

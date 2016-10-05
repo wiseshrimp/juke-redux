@@ -1,0 +1,73 @@
+{% extends 'layout.html' %}
+
+{% block title %}Trip Planner{% endblock %}
+
+{% block content %}
+  <content class="row">
+    <map-container class="col-sm-8 col-xs-12">
+      <map id="map-canvas"></map>
+    </map-container>
+    <div class="col-sm-4 col-xs-12">
+      <control class="row">
+        <choose-data class="col-xs-6 col-sm-12">
+          <chooser>
+            <h4>Hotels</h4>
+            <select>
+              {% for hotel in hotels %}
+              <option>{{ hotel.name }}</option>
+              {% endfor %}
+            </select>
+            <button class="circle small-square">+</button>
+          </chooser>
+          <chooser>
+            <h4>Restaurants</h4>
+            <select>
+              {% for restaurant in restaurants %}
+              <option>{{ restaurant.name }}</option>
+              {% endfor %}
+            </select>
+            <button class="circle small-square">+</button>
+          </chooser>
+          <chooser>
+            <h4>Activities</h4>
+            <select>
+              {% for activity in activities %}
+              <option>{{ activity.name }}</option>
+              {% endfor %}
+            </select>
+            <button class="circle small-square">+</button>
+          </chooser>
+        </choose-data>
+        <div class="col-xs-6 col-sm-12">
+          <choose-day>
+            <div>
+              <span>Day 4</span><button class="circle small-square">x</button>
+            </div>
+          </choose-day>
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <button class="circle small-square">1</button>
+              <button class="circle small-square">2</button>
+              <button class="circle small-square">3</button>
+              <button class="circle small-square">+</button>
+            </div>
+            <div class="panel-body">
+              <h3>Hotels</h3>
+              <ul class="list-unstyled">
+                <li>Boardwalk</li>
+              </ul>
+              <h3>Restaurants</h3>
+              <ul class="list-unstyled">
+                <li>Le Cirque</li>
+              </ul>
+              <h3>Activities</h3>
+              <ul class="list-unstyled">
+                <li>Run Around</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </control>
+    </div>
+  </content>
+{% endblock %}

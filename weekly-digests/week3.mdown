@@ -1,0 +1,25 @@
+1609 - Week 3 Digest
+
+## Wikistack
+	- ORMs (Object Relational Mappers)
+	- Mapping SQL queries with Sequelize
+	- Sequelize/Express backend
+	- Associations between Models
+
+## Wikistack Testing
+	- Test Driven Development
+	- Mocha/Chai
+	- Functional Spies
+
+## Pledge
+	- Promise Mechanics
+	- Deferral Style Promises
+
+## Shoestring
+	- Responsive Design
+	- CSS Preprocessing (SASS)
+	- Flex grid systems for styling
+
+## Tripplanner
+	- Express/Sequelize Review
+	- Static (old-school) UIs
