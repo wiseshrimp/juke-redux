@@ -78,9 +78,13 @@
 
 ### Wikistack
 - [Lecture](https://youtu.be/lmcc0EfMXqo)
-- [Review I](https://www.youtube.com/watch?v=stTJmJ-uGtg)
-- [Review II](https://www.youtube.com/watch?v=7iPyaokenlg)
+- [Review 1](https://www.youtube.com/watch?v=stTJmJ-uGtg)
+- [Review 2](https://www.youtube.com/watch?v=7iPyaokenlg)
 ---
+
+### Tripplanner
+-[Lecture Ajax](https://youtu.be/XQpF-mUWdcg)
+
 
 ## CS Saturday
 
