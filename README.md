@@ -52,6 +52,7 @@
 
 ### 11. Wikistack
 - [Lecture](https://youtu.be/lmcc0EfMXqo)
+
 - [Review I](https://www.youtube.com/watch?v=stTJmJ-uGtg)
 - [Review II](https://www.youtube.com/watch?v=7iPyaokenlg)
 
@@ -73,7 +74,11 @@
 ### 16. Tripplanner Live
 - [Lecture](https://youtu.be/N77X-XE_8Hk)
 - [Review](https://www.youtube.com/watch?v=gajJ9BHLiKA&feature=youtu.be)
----
+
+
+### Tripplanner Persistance 
+-[Lecture Ajax](https://youtu.be/XQpF-mUWdcg)
+
 
 ## CS Saturday
 

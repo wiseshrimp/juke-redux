@@ -5,7 +5,7 @@ var marked = require('marked');
 var Page = db.define('page', {
     title: {
         type: Sequelize.STRING,
-        allowNull: false
+        allowNull: true
     },
     urlTitle: {
         type: Sequelize.STRING,
