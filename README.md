@@ -76,7 +76,7 @@
 - [Review](https://www.youtube.com/watch?v=gajJ9BHLiKA&feature=youtu.be)
 
 
-### Tripplanner Persistance 
+### 17. Tripplanner Persistance 
 - [Lecture Ajax](https://youtu.be/XQpF-mUWdcg)
 - [Review](https://www.youtube.com/watch?v=DeFD0EuG4dY&ab_channel=FullstackAcademy)
 
@@ -124,5 +124,8 @@
 - [Review: Part IV](http://youtu.be/wuZboc_EIew)
   [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
 
-### 6. Express Checkpoint Solution
-6. [Express Checkpoint Solution](https://github.com/FullstackAcademy/express-checkpoint-solution)
+## Express Self-Checkpoint
+- [Review from Zeke](https://youtu.be/op6AcWbwwbE)
+
+## Express/Sequelize Checkpoint
+- [Review (recorded by Gabe)](https://www.youtube.com/watch?v=MGk2tineSxc&feature=youtu.be)
