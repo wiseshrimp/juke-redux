@@ -76,7 +76,7 @@
 - [Review](https://www.youtube.com/watch?v=gajJ9BHLiKA&feature=youtu.be)
 
 
-### Tripplanner Persistance 
+### Tripplanner Persist
 -[Lecture Ajax](https://youtu.be/XQpF-mUWdcg)
 
 
