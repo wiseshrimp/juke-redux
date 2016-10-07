@@ -76,28 +76,18 @@
 - [Review](https://www.youtube.com/watch?v=gajJ9BHLiKA&feature=youtu.be)
 
 
-### Tripplanner Persist
--[Lecture Ajax](https://youtu.be/XQpF-mUWdcg)
+
+### 17. Tripplanner Persistance 
+- [Lecture Ajax](https://youtu.be/XQpF-mUWdcg)
+- [Review](https://www.youtube.com/watch?v=DeFD0EuG4dY&ab_channel=FullstackAcademy)
 
 
-## CS Saturday
-
-## FQL
-
-- [Intro Lecture](http://youtu.be/WQJmzTPsDEk)
-- [Review: Parts I and II](http://youtu.be/lZCOZsEPlcI)
-  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/326115b3ab0d16acf56f5ab51830e6c7a025342a)
-- [Lecture: Indexing](http://youtu.be/-QtVrxb3Cyc)
-- [Review: Part III](http://youtu.be/q85H_msO09M)
-  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/05b3f59b9c005ee7c88f5f681d5331b9579aa817)
-- [Review: Part IV](http://youtu.be/wuZboc_EIew)
-  [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
 
 ----------------------
 
 ## Misc
 
-### 1. Test First Solutions:
+### Test First Solutions:
 
 - [01 Properties](https://www.youtube.com/watch?v=YDoRg2topuA)
 - [02 Calculator](https://www.youtube.com/watch?v=komtSeCkzCA)
@@ -108,7 +98,7 @@
 - [07 Mammals](https://www.youtube.com/playlist?list=PLx0iOsdUOUmkJGuH7-4KJ6dToxFJzgVFh)
 - [08 Recursion](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmrCVtFYTSvFgytB34qWT8a)
 
-### 2. Foundations Checkpoint Prep:
+### Foundations Checkpoint Prep:
 
 - [Prototype Review (Mammal)](https://www.youtube.com/watch?v=uMDqU_CiuN0)
 - [Writeup: Closures](https://gist.github.com/glebec/6934d2217470a9ef2339f5c28a4b1aff)
@@ -116,17 +106,17 @@
 - [Tuesday Morning TestFirst Q&A](https://youtu.be/p4_tcB7Xyj8)
 
 
-### 3. CodeWars
+### CodeWars
 - [Intro](https://youtu.be/2tiNAi6bM0A)
 - [Gist of Foundations practice problems](https://gist.github.com/joedotjs/7614f84264bf20e49d39)
 - [For the Sake of Argument](https://www.youtube.com/watch?v=usyFqZQzM4U)
 - [Sum Array with Reduce](https://www.youtube.com/watch?v=qRwD2RueqJM)
 
 
-### 4. ES6 of the Week
+### ES6 of the Week
 - [Arrow functions and lexical scope](https://youtu.be/DnH2EtwVxKY)
 
-### 5. FQL
+### FQL
 - [Intro Lecture](http://youtu.be/WQJmzTPsDEk)
 - [Review: Parts I and II](http://youtu.be/lZCOZsEPlcI)
   [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/326115b3ab0d16acf56f5ab51830e6c7a025342a)
@@ -136,5 +126,11 @@
 - [Review: Part IV](http://youtu.be/wuZboc_EIew)
   [solution commit](https://github.com/FullstackAcademy/1609-Library/commit/fe7ab5a3761692674f2c07fbbe6e67f46708e4b8)
 
-### 6. Express Checkpoint Solution
-6. [Express Checkpoint Solution](https://github.com/FullstackAcademy/express-checkpoint-solution)
+## Express Self-Checkpoint
+- [Review from Zeke](https://youtu.be/op6AcWbwwbE)
+
+## Express/Sequelize Checkpoint
+- [Review (recorded by Gabe)](https://www.youtube.com/watch?v=MGk2tineSxc&feature=youtu.be)
+
+## FVS (CS Saturday)
+- [Repo](https://github.com/FullstackAcademy/fvs) (contains video solutions)
