@@ -129,3 +129,6 @@
 
 ## Express/Sequelize Checkpoint
 - [Review (recorded by Gabe)](https://www.youtube.com/watch?v=MGk2tineSxc&feature=youtu.be)
+
+## FVS (CS Saturday)
+- [Repo](https://github.com/FullstackAcademy/fvs) (contains video solutions)
