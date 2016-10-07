@@ -1,3 +1,5 @@
+
+// this is global now 
 window.whiteboard = new window.EventEmitter();
 
 (function () {
@@ -88,6 +90,7 @@ window.whiteboard = new window.EventEmitter();
         // If shouldBroadcast is truthy, we will emit a draw event to listeners
         // with the start, end and color data.
         if (shouldBroadcast) {
+            // this event we emit is caught by the whiteboard object in app.js
             whiteboard.emit('draw', start, end, strokeColor);
         }
         
