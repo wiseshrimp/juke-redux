@@ -77,11 +77,14 @@
 
 
 
-### 17. Tripplanner Persistance 
+### 17. Tripplanner Persistence 
 - [Lecture Ajax](https://youtu.be/XQpF-mUWdcg)
 - [Review](https://www.youtube.com/watch?v=DeFD0EuG4dY&ab_channel=FullstackAcademy)
 
+## 18. World Wide Whiteboard
 
+## 19. Juke 1: React
+- [Lecture](https://youtu.be/Y7YyOPDETLo)
 
 ----------------------
 
